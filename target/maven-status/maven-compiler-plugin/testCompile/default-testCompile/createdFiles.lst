@@ -1,0 +1,6 @@
+PageObjects\CreateCandidatesPage.class
+PageObjects\LinkAnOrganisationToAClientPage.class
+PageObjects\CreateJobPage.class
+testRunner\TestRun.class
+PageObjects\CreateNewClientPage.class
+StepDefinitions\Steps.class

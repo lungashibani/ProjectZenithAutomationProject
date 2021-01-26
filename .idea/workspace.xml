@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6a3973b-549d-40f6-800f-2811fc1b8904" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mjKBKoSVWr1yo4Up33loDWzGEj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/PageObjects" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SHIBL\Documents\ZenithNew\CreateCadidateDemo-main\Features\Blockers" />
+      <recent name="C:\Users\SHIBL\Documents\ZenithNew\CreateCadidateDemo-main\Features\Working" />
+      <recent name="C:\Users\SHIBL\Documents\ZenithNew\CreateCadidateDemo-main\Features" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SHIBL\Documents\ZenithNew\CreateCadidateDemo-main\src\test\java\PageObjects" />
+      <recent name="C:\Users\SHIBL\Documents\ZenithNew\CreateCadidateDemo-main\Features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Successful Login with Valid Credentials">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful Login with Valid Credentials (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/CreateCandidateRecord-LinkEmployerOnlyOrganisation.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CreateCadidateDemo-main-main" />
+      <option name="NAME_FILTER" value="^Successful Login with Valid Credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful Login with Valid Credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful Login with Valid Credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful Login with Valid Credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Blockers/Organisation-PlusTopBtn-AddAlertToRecord.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CreateCadidateDemo-main-main" />
+      <option name="NAME_FILTER" value="^Successful Login with Valid Credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful Login with Valid Credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful Login with Valid Credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful creates New list (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/ClientContactRecord-JobsTab.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CreateCadidateDemo-main-main" />
+      <option name="NAME_FILTER" value="^Successful creates New list$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful creates New list$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful creates New list" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful creates New list" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Blockers/Client-LinkCandidate.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CreateCadidateDemo-main-main" />
+      <option name="NAME_FILTER" value="^Successful creates New list$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful creates New list$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful creates New list" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful removes candidate" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/ClientContactRecord-RemoveCandidate.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CreateCadidateDemo-main-main" />
+      <option name="NAME_FILTER" value="^Successful removes candidate$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful removes candidate$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful removes candidate" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Successful Login with Valid Credentials" />
+        <item itemvalue="Cucumber Java.Scenario: Successful removes candidate" />
+        <item itemvalue="Cucumber Java.Scenario: Successful creates New list (1)" />
+        <item itemvalue="Cucumber Java.Scenario: Successful creates New list" />
+        <item itemvalue="Cucumber Java.Scenario: Successful Login with Valid Credentials (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6a3973b-549d-40f6-800f-2811fc1b8904" name="Default Changelist" comment="" />
+      <created>1610001424576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610001424576</updated>
+      <workItem from="1610001425790" duration="38000" />
+      <workItem from="1610001629999" duration="77413000" />
+      <workItem from="1610359620957" duration="1802000" />
+      <workItem from="1610516845275" duration="806000" />
+      <workItem from="1610696151525" duration="40631000" />
+      <workItem from="1611208637614" duration="1241000" />
+      <workItem from="1611286416616" duration="192000" />
+      <workItem from="1611323284469" duration="115997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611471696137">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611471696137" />
+    <state x="468" y="330" width="431" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1611385872867">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="468" y="330" width="431" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611385872867" />
+    <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611417117361">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611417117361" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1611040264477">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1610218480669" />
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611040264477" />
+    <state width="1326" height="715" key="GridCell.Tab.0.bottom" timestamp="1611668936650">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="695" key="GridCell.Tab.0.bottom/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1610277914292" />
+    <state width="1326" height="715" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611668936650" />
+    <state width="1326" height="695" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1610976167171" />
+    <state width="1326" height="715" key="GridCell.Tab.0.center" timestamp="1611668936649">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="695" key="GridCell.Tab.0.center/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1610277914292" />
+    <state width="1326" height="715" key="GridCell.Tab.0.center/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611668936649" />
+    <state width="1326" height="695" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1610976167166" />
+    <state width="1326" height="715" key="GridCell.Tab.0.left" timestamp="1611668936648">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="695" key="GridCell.Tab.0.left/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1610277914292" />
+    <state width="1326" height="715" key="GridCell.Tab.0.left/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611668936648" />
+    <state width="1326" height="695" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1610976167158" />
+    <state width="1326" height="715" key="GridCell.Tab.0.right" timestamp="1611668936649">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="695" key="GridCell.Tab.0.right/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1610277914292" />
+    <state width="1326" height="715" key="GridCell.Tab.0.right/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611668936649" />
+    <state width="1326" height="695" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1610976167166" />
+    <state x="265" y="179" key="IDE.errors.dialog" timestamp="1611509670446">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="265" y="179" key="IDE.errors.dialog/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611509670446" />
+    <state x="393" y="168" width="581" height="534" key="find.popup" timestamp="1611286505525">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="393" y="168" width="581" height="534" key="find.popup/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611286505525" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1611415314513">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1611415314513" />
+  </component>
+</project>
